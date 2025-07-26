@@ -1,5 +1,5 @@
 # ISO Continuously Updates Their Documents
-## And it can be cumbersome to always keep up with the latest<br> versions for your ISO documents
+## And it's cumbersome to always have to keep up with the latest<br> versions for your ISO documents
 
 This is what the **ISO Latest Version Tracker** is for!
 
