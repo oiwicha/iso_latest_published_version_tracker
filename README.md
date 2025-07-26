@@ -1,7 +1,7 @@
 # ISO Continuously Updates Their Documents
 ## And it's cumbersome to always have to keep up with the latest<br> versions for your ISO documents
 
-This is what the **ISO Latest Version Tracker** is for!
+This is what the **ISO Latest Published Version Tracker** is for!
 
 In a few clicks, find out the latest current published versions of your relevant ISO documents, to verify that your own ISO documents are up to date!
 
