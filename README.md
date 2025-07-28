@@ -10,7 +10,7 @@ In a few clicks, find out the latest current published versions of your relevant
 ## Usage Guide
 
 1. Enter the link above or [here](https://colab.research.google.com/drive/1cYLQLF2uBmgGjAKADLrqKyccSwqwf5-B?usp=sharing)
-2. Run the code first
+2. Run the code first. (It may take ~20s to load!)
 >
 > <img src = "https://github.com/user-attachments/assets/20dbdfd3-5628-4484-addf-993e80f15016" width = "400" height = "280">
 
