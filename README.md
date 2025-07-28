@@ -29,4 +29,4 @@ In a few clicks, find out the latest current published versions of your relevant
 
 5. Choose your document type(s). All are selected by default
 
-> <img src = "https://github.com/user-attachments/assets/ffca9b38-d253-4929-9e70-7a9c21e05201" width = "400" height = "280">
+> <img src = "https://github.com/user-attachments/assets/ffca9b38-d253-4929-9e70-7a9c21e05201" width = "415" height = "280">
