@@ -16,10 +16,10 @@ In a few clicks, find out the latest current published versions of your relevant
 
 3. Type in your desired ISO documents in the search key. Note the 2 methods to do so!
 
-> |Add One by One|Add Altogether|
+> |Add One by One      &#9;  &#9; &#9; |Add Altogether|
 > |:--------:|:---------:|
-> |<img src = "https://github.com/user-attachments/assets/6e74f96b-2db6-40f3-a74e-3985d0da1582" width = "300" height = "210">|<img src = "https://github.com/user-attachments/assets/285327b0-0b01-4488-8549-b1d90a29d14f" width = "300" height = "210">|
-> |Just type the document number without the prefix nor the publication year <br><br> e.g. for **ISO/TS 22002-1:2009** type **22002-1**| Type the document numbers without the prefix nor the publication year, enclosing each number in quotation marks ' ', separating each number with a comma, and enclose everything with [ ] <br> <br> E.g. for **ISO/TS 22002-1:2009**, **ISO/TS 22002-2:2013** <br> type **['22002-1','22002-2']**
+> |<img src = "https://github.com/user-attachments/assets/6e74f96b-2db6-40f3-a74e-3985d0da1582" width = "350" height = "230">|<img src = "https://github.com/user-attachments/assets/285327b0-0b01-4488-8549-b1d90a29d14f" width = "350" height = "230">|
+> |&#9;Just type the document number without the prefix nor the publication year &#9;<br><br> e.g. for **ISO/TS 22002-1:2009** type **22002-1**| Type the document numbers without the prefix nor the publication year,<br>enclosing each number in quotation marks ' ',<br>separating each number with a comma,<br>and enclosing everything with [ ] <br> <br> E.g. for **ISO/TS 22002-1:2009**, **ISO/TS 22002-2:2013** <br> type **['22002-1','22002-2']**
 
 4. Choose your search type
 
